@@ -24,5 +24,5 @@
 - [python](https://github.com/Noi-q/python) Noi的String game
 ## <img src="https://simpleicons.org/icons/shell.svg" width="28" /> Shell
 - [fast-zsh](https://github.com/Noi-q/fast-zsh) 快速配置Noi的zsh
-##<img src="https://simpleicons.org/icons/php.svg" width="28" /> PHP
+## <img src="https://simpleicons.org/icons/php.svg" width="28" /> PHP
 - [Web](https://github.com/Noi-q/Web) Noi的前端和后端
