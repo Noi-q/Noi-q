@@ -15,7 +15,7 @@
 </body>
 
 ----
----
+----
 <!DOCTYPE html>
 
 ## <img src="https://simpleicons.org/icons/linux.svg" width="28" /> GNU/Linux
