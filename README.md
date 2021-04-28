@@ -32,8 +32,10 @@
 <!DOCTYPE html>
 <html>
 <b>
+Noi仓库：<br>
 https://github.com/Noi-q <br>
-https://gitee.com/Noi_k <br>
+https://gitee.com/Noi_k <br><br>
+联系：<br>
 [Noi]公告群：123999208 <br>
 ArchLinux交流群：806028583
 </b>
