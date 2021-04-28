@@ -26,3 +26,15 @@
 - [fast-zsh](https://github.com/Noi-q/fast-zsh) 快速配置Noi的zsh
 ## <img src="https://simpleicons.org/icons/php.svg" width="28" /> PHP
 - [Web](https://github.com/Noi-q/Web) Noi的前端和后端
+
+----
+----
+<!DOCTYPE html>
+<html>
+<b>
+https://github.com/Noi-q <br>
+https://gitee.com/Noi_k <br>
+[Noi]公告群：123999208 <br>
+ArchLinux交流群：806028583
+</b>
+</html>
