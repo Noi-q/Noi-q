@@ -24,8 +24,8 @@
 - [python](https://github.com/Noi-q/python) Noi的String game
 ## <img src="https://simpleicons.org/icons/shell.svg" width="28" /> Shell
 - [fast-zsh](https://github.com/Noi-q/fast-zsh) 快速配置Noi的zsh
-## <img src="https://simpleicons.org/icons/vim.svg" width="28" /> Shell
-- [vim](https://github.com/Noi-q/fast-zsh) 快速配置Noi的vim
+## <img src="https://simpleicons.org/icons/vim.svg" width="28" /> NVim
+- [nvim](https://github.com/Noi-q/nvim.git) 快速配置Noi的Nvim
 
 
 ----
