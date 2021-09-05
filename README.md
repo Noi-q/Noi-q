@@ -36,6 +36,6 @@ https://github.com/Noi-q <br>
 https://gitee.com/Noi_k <br><br>
 联系：<br>
 [Noi]公告群：123999208 <br>
-     <p>&nbsp&nbsp&nbsp&nbspQQ：1044550927</p>
+     <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspQQ：1044550927</p>
 </b>
 </html>
