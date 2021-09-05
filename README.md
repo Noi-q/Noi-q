@@ -2,7 +2,7 @@
 <body>
 <br>
 <div align="center">
-        <img src="http://q2.qlogo.cn/headimg_dl?dst_uin=928401297&spec=4" style="border-radius: 250%">
+        <img src="http://q2.qlogo.cn/headimg_dl?dst_uin=1044550927&spec=4" style="border-radius: 250%">
 <br>
                 <b><font size="12">Noi</font></b><br>
                 <font size="4">我吹过你吹过的晚风.</font>
@@ -36,6 +36,6 @@ https://github.com/Noi-q <br>
 https://gitee.com/Noi_k <br><br>
 联系：<br>
 [Noi]公告群：123999208 <br>
-ArchLinux交流群：806028583
+QQ:1044550927
 </b>
 </html>
