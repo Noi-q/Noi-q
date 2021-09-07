@@ -21,7 +21,7 @@
 ## <img src="https://simpleicons.org/icons/linux.svg" width="28" /> GNU/Linux
 - [Noi](https://github.com/Noi-q/Noi) Noi的Linux指令
 ## <img src="https://simpleicons.org/icons/python.svg" width="28" /> Python
-- [python](https://github.com/Noi-q/python) Noi的String game
+- [python](https://github.com/Noi-q/python) Noi的Word game
 ## <img src="https://simpleicons.org/icons/shell.svg" width="28" /> Shell
 - [fast-zsh](https://github.com/Noi-q/fast-zsh) 快速配置Noi的zsh
 ## <img src="https://simpleicons.org/icons/vim.svg" width="28" /> Nvim
