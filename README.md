@@ -19,25 +19,14 @@
 <!DOCTYPE html>
 
 ## <img src="https://simpleicons.org/icons/linux.svg" width="28" /> GNU/Linux
-- [Noi](https://github.com/Noi-q/Noi) Noi的Linux指令
+- [Noi](https://github.com/Noi-q/Noi) Linux指令
 ## <img src="https://simpleicons.org/icons/python.svg" width="28" /> Python
-- [python](https://github.com/Noi-q/python) Noi的Word game
+- [python](https://github.com/Noi-q/python) Word game
 ## <img src="https://simpleicons.org/icons/shell.svg" width="28" /> Shell
-- [fast-zsh](https://github.com/Noi-q/fast-zsh) 快速配置Noi的zsh
+- [fast-zsh](https://github.com/Noi-q/fast-zsh) 快速配置zsh
 ## <img src="https://simpleicons.org/icons/vim.svg" width="28" /> Nvim
-- [nvim](https://github.com/Noi-q/nvim.git) 快速配置Noi的Nvim
+- [nvim](https://github.com/Noi-q/nvim.git) 快速配置Nvim
 
 
 ----
 ----
-<!DOCTYPE html>
-<html>
-<b>
-Noi仓库：<br>
-https://github.com/Noi-q <br>
-https://gitee.com/Noi_k <br><br>
-联系：<br>
-[Noi]公告群：123999208 <br>
-     <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspQQ：1044550927</p>
-</b>
-</html>
