@@ -2,7 +2,7 @@
 <body>
 <br>
 <div align="center">
-        <img src="http://q2.qlogo.cn/headimg_dl?dst_uin=1044550927&spec=4" style="border-radius: 250%">
+        <img src="https://avatars.githubusercontent.com/u/76736117?v=4" style="border-radius: 250%">
 <br>
                 <b><font size="12">Noi</font></b><br>
                 <font size="4">我吹过你吹过的晚风.</font>
