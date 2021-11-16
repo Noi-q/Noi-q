@@ -18,6 +18,8 @@
 ----
 <!DOCTYPE html>
 
+<!---
+
 ## <img src="https://simpleicons.org/icons/linux.svg" width="28" /> GNU/Linux
 - [Noi](https://github.com/Noi-q/Noi) Linux指令
 ## <img src="https://simpleicons.org/icons/python.svg" width="28" /> Python
