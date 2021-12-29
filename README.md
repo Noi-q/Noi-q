@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Shell-%23777BB4.svg?&style=for-the-badge&logo=shell&logoColor=yellow" height="35">
     <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="35">
     <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" height="35">
-                                                                                                                            
+        <hr/>
 </div>
 </body>
 
