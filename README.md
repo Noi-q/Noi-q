@@ -3,7 +3,9 @@
 <br>
 <div align="center">
         <div style="border-radius:50px 50px 50px 50px;">
-                <img src="https://avatars.githubusercontent.com/u/76736117?v=4" style="width: 200px;height: 200px;">
+                <img 
+                     src="https://avatars.githubusercontent.com/u/76736117?v=4" 
+                     style="width: 200px;height: 200px;">
         </div>
 <br>
                 <b><font size="12">Noi-q</font></b><br>
