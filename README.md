@@ -17,10 +17,10 @@
     <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="35">
     <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" height="35">
     <img src="https://img.shields.io/badge/Lua-%233776AB.svg?&style=for-the-badge&logo=lua&logoColor=white" height="35">
-        <hr/>
         <div>
                 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Noi-q&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
         </div>
+
 </div>
 </body>
 
