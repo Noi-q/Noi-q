@@ -12,7 +12,7 @@
 <br>
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="35">
     <img src="https://img.shields.io/badge/Shell-%A52A2A.svg?&style=for-the-badge&logo=shell&logoColor=yellow" height="35">
-    <img src="https://img.shields.io/badge/Javascript-%233776AB.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="35">
+    <img src="https://img.shields.io/badge/Javascript-%FFFF00.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="35">
     <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" height="35">
                                                                                                                             
 </div>
