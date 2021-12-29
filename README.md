@@ -10,7 +10,7 @@
                 <font size="4">我吹过你吹过的晚风.</font>
 <br>
 <br>
-    <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+     <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="30">
     <img src="https://img.shields.io/badge/Shell-%233776AB.svg?&style=for-the-badge&logo=shell&logoColor=white" height="30">
     <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white">
 </div>
